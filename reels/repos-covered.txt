@@ -6,3 +6,4 @@ Edge0-AI/Edge0
 pingdotgg/t3code
 mvanhorn/last30days-skill
 iamajmeena/neonclipping
+nexu-io/openmotion
