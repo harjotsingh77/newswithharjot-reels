@@ -7,3 +7,4 @@ pingdotgg/t3code
 mvanhorn/last30days-skill
 iamajmeena/neonclipping
 nexu-io/openmotion
+diggerhq/opencomputer
