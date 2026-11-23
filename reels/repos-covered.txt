@@ -8,3 +8,4 @@ mvanhorn/last30days-skill
 iamajmeena/neonclipping
 nexu-io/openmotion
 diggerhq/opencomputer
+EL4CTEO/fast-anything
