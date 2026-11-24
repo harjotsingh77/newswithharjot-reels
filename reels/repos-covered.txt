@@ -9,3 +9,4 @@ iamajmeena/neonclipping
 nexu-io/openmotion
 diggerhq/opencomputer
 EL4CTEO/fast-anything
+zhouxiaoka/autoclip
