@@ -10,3 +10,4 @@ nexu-io/openmotion
 diggerhq/opencomputer
 EL4CTEO/fast-anything
 zhouxiaoka/autoclip
+cathrynlavery/diagram-design
